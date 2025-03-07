@@ -1,5 +1,3 @@
-# PrivateVlessProxy
+# PrivateVlessProxy by noway
 
-Всем привет это рашн свэг эбаут проксис энд сам озер щит
-
-(Конфиг для Xray-core сервера с vless + reality + xtls-vidion)
+Всем привет это тру рашн свэг эбаут проксис энд сам озер щит
