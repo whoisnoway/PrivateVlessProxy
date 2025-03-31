@@ -10,7 +10,7 @@
       "settings": {
         "clients": [
           {
-            "id": "6e7b44f1-ce8e-618-b4fe-d35eb91bdf97",
+            "id": "****",
             "flow": "xtls-rprx-vision"
           }
         ],
@@ -24,9 +24,9 @@
           "serverNames": [
             "www.microsoft.com"
           ],
-          "privateKey": "-G1gn-x_F9-GmIm083OkVsWi-P4RfXA1XGK8MPz33o",
+          "privateKey": "****",
           "shortIds": [
-            "994699daa1a80a91"
+            "****"
           ]
         }
       },
